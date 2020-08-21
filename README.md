@@ -1,0 +1,2 @@
+# atviksord
+Íslensk atviksorð
