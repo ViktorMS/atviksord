@@ -1,10 +1,15 @@
 # Íslensk atviksorð
 
-## Raðað eftir tíðni frá
+## Raðað eftir tíðni, frá:
 
 https://malheildir.arnastofnun.is/?mode=rmh2019&fbclid=IwAR0cT9s-QOXRwDKTLlz9cFY4a7pKXToQblUJ75wdzqkcIjV6pdFSyP9C8EY#?stats_reduce=word&isCaseInsensitive&searchBy=word&cqp=%5Bpos%20%3D%20%22a%22%20%25c%5D&search_tab=1&hpp=1000&search=cqp&result_tab=2
 
-# Algeng atviksorð
+Því neðar í listann sem þú ferð, því meiri líkur á villum.
+
+# Icelandic adverbs
+The lower in the list you go, the more error prone the list becomes.
+
+# Algeng atviksorð / Icelandic adverbs
 
 ekki  
 þar  
